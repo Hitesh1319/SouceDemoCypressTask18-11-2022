@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Nov 18 18:25:56 IST 2022","Fri Nov 18 18:25:59 IST 2022","3267","","Add To Cart","","","","Verify that user is able to add product into cart",""
+"passed","Fri Nov 18 18:26:38 IST 2022","Fri Nov 18 18:26:39 IST 2022","728","","Rest assured api test with cypress","","","","Api test",""
+"passed","Fri Nov 18 18:25:43 IST 2022","Fri Nov 18 18:25:47 IST 2022","3465","","Login Test","","","","Verify user is able to login with valid credentials",""
+"passed","Fri Nov 18 18:26:07 IST 2022","Fri Nov 18 18:26:12 IST 2022","4698","","Adding product and checkout","","","","Verify that user is able to add product into cart",""
+"passed","Fri Nov 18 18:26:31 IST 2022","Fri Nov 18 18:26:33 IST 2022","2715","","Filter test","","","","Verify that user is able to click on filter and select high to low",""
+"passed","Fri Nov 18 18:26:19 IST 2022","Fri Nov 18 18:26:23 IST 2022","3448","","Adding multiple products in carts","","","","Verify that user is able to add multiple products into carts",""
